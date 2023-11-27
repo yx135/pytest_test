@@ -1,2 +1,6 @@
 allure-pytest
 pytest
+requests
+yaml
+os
+allure
